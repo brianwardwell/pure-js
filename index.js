@@ -153,6 +153,7 @@ btn.addEventListener('click', () => {
     bEight.innerHTML = ''
     bNine.innerHTML = ''
     console.log(counter)
+    end.innerHTML = ''
 })
 
 
